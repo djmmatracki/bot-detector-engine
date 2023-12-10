@@ -1,0 +1,84 @@
+Number of bots 20000
+Model: XGBClassifier(base_score=None, booster=None, callbacks=None,
+              colsample_bylevel=None, colsample_bynode=None,
+              colsample_bytree=0.8, device=None, early_stopping_rounds=None,
+              enable_categorical=False, eta=0.01, eval_metric=None,
+              feature_types=None, gamma=0.05, grow_policy=None,
+              importance_type=None, interaction_constraints=None,
+              learning_rate=0.1, max_bin=None, max_cat_threshold=None,
+              max_cat_to_onehot=None, max_delta_step=None, max_depth=7,
+              max_leaves=None, min_child_weight=None, missing=nan,
+              monotone_constraints=None, multi_strategy=None, n_estimators=200,
+              n_jobs=None, num_parallel_tree=None, ...)
+------------------------------
+Accuracy:  0.68707 +- 0.003358
+Precision: 0.52492 +- 0.006917
+Recall:    0.67591 +- 0.007281
+F1 Score:  0.59089 +- 0.005676
+ROC AUC:   0.75836 +- 0.004188
+
+
+
+Number of bots 40000
+Model: XGBClassifier(base_score=None, booster=None, callbacks=None,
+              colsample_bylevel=None, colsample_bynode=None,
+              colsample_bytree=0.8, device=None, early_stopping_rounds=None,
+              enable_categorical=False, eta=0.01, eval_metric=None,
+              feature_types=None, gamma=0.05, grow_policy=None,
+              importance_type=None, interaction_constraints=None,
+              learning_rate=0.1, max_bin=None, max_cat_threshold=None,
+              max_cat_to_onehot=None, max_delta_step=None, max_depth=7,
+              max_leaves=None, min_child_weight=None, missing=nan,
+              monotone_constraints=None, multi_strategy=None, n_estimators=200,
+              n_jobs=None, num_parallel_tree=None, ...)
+------------------------------
+Accuracy:  0.79350 +- 0.002762
+Precision: 0.66543 +- 0.006326
+Recall:    0.76700 +- 0.008252
+F1 Score:  0.71257 +- 0.004549
+ROC AUC:   0.86870 +- 0.002151
+
+
+
+Number of bots 60000
+Model: XGBClassifier(base_score=None, booster=None, callbacks=None,
+              colsample_bylevel=None, colsample_bynode=None,
+              colsample_bytree=0.8, device=None, early_stopping_rounds=None,
+              enable_categorical=False, eta=0.01, eval_metric=None,
+              feature_types=None, gamma=0.05, grow_policy=None,
+              importance_type=None, interaction_constraints=None,
+              learning_rate=0.1, max_bin=None, max_cat_threshold=None,
+              max_cat_to_onehot=None, max_delta_step=None, max_depth=7,
+              max_leaves=None, min_child_weight=None, missing=nan,
+              monotone_constraints=None, multi_strategy=None, n_estimators=200,
+              n_jobs=None, num_parallel_tree=None, ...)
+------------------------------
+Accuracy:  0.71815 +- 0.005047
+Precision: 0.56966 +- 0.007605
+Recall:    0.62376 +- 0.005678
+F1 Score:  0.59547 +- 0.006104
+ROC AUC:   0.77382 +- 0.005290
+
+
+
+Number of bots 80000
+Model: XGBClassifier(base_score=None, booster=None, callbacks=None,
+              colsample_bylevel=None, colsample_bynode=None,
+              colsample_bytree=0.8, device=None, early_stopping_rounds=None,
+              enable_categorical=False, eta=0.01, eval_metric=None,
+              feature_types=None, gamma=0.05, grow_policy=None,
+              importance_type=None, interaction_constraints=None,
+              learning_rate=0.1, max_bin=None, max_cat_threshold=None,
+              max_cat_to_onehot=None, max_delta_step=None, max_depth=7,
+              max_leaves=None, min_child_weight=None, missing=nan,
+              monotone_constraints=None, multi_strategy=None, n_estimators=200,
+              n_jobs=None, num_parallel_tree=None, ...)
+------------------------------
+Accuracy:  0.78244 +- 0.001556
+Precision: 0.64796 +- 0.002862
+Recall:    0.75780 +- 0.004553
+F1 Score:  0.69857 +- 0.001686
+ROC AUC:   0.85951 +- 0.001748
+
+
+

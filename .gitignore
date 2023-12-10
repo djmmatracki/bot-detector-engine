@@ -1,0 +1,7 @@
+*.env
+*.pyc
+.DS_Store
+twitter-bot-detection
+venv
+data
+models

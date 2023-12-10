@@ -1,0 +1,25 @@
+follower_count                0.025178
+avg_daily_favorites           0.027706
+avg_daily_friends             0.027706
+avg_daily_followers           0.027706
+average_tweets_per_day        0.032106
+following_count               0.033186
+listed_count                  0.044056
+description_urls_count        0.059558
+favs_rate                     0.075064
+friends_acq_rate              0.075064
+description_mentions_count    0.088798
+protected                     0.116983
+verified                      0.130994
+pinned_tweet                  0.162076
+account_age_days              0.169181
+geo_enabled                   0.179710
+follower_acq_rate             0.192053
+avg_daily_tweets_log          0.215358
+default_profile_image         0.222710
+following_log                 0.239187
+tweet_to_followers            0.251770
+network                       0.322236
+follower_log                  0.345909
+bot                           1.000000
+Name: bot, dtype: float64
